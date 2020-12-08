@@ -1,0 +1,14 @@
+#通用忽略
+node_modules
+#测试文件
+/test
+#自定义配置文件
+gulpfile.js
+#开发目录忽略
+/cfg
+/src
+#文件忽略
+.editorconfig
+gulpfile.js
+package.json
+package-lock.json
